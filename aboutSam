@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sam Mendez - Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Sam Mendez's Personal Page</h1>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            Hello! My name is Sam Mendez. I'm currently working on my BAS in Cyber Security.
+            I was born in the 90's, and my zodiac sign is Sagittarius. In my free time, I enjoy cooking and playing video games.
+        </p>
+        <h2>My Skills</h2>
+        <ul>
+            <li>Cyber Security</li>
+            <li>Networking</li>
+            <li>Information Security</li>
+            <li>Security Operations</li>
+        </ul>
+        <h2>My Projects</h2>
+        <p>
+            Currently, I'm working on various projects related to cyber security as part of my academic studies.
+            Stay tuned for updates!
+        </p>
+    </div>
+</body>
+</html>
